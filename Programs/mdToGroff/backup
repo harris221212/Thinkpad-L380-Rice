@@ -1,0 +1,23 @@
+	"""
+	boldItalicCheck = text.split("***")
+	i = 1
+	for b in boldItalicCheck:
+		if i%2 == 0:
+			print("bold italic: " + b)
+		i = i + 1
+	for c in boldItalicCheck:
+		i = 1
+		boldSplit = c.split("**")
+		for d in boldSplit:
+			if i%2 == 0:
+				print("bold: " + d)
+			i = i + 1
+		
+		for e in boldSplit:
+			i = 1
+			italicSplit = e.split("*")
+			for f in italicSplit:
+				if i%2 == 0:
+					print("italic: " + f)
+				i = i + 1
+				"""/

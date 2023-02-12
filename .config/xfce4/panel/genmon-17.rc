@@ -1,0 +1,6 @@
+Command=echo "|"
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=30000
+Font=Sans 13
+

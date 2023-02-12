@@ -1,0 +1,5 @@
+configuration {
+
+  kb-cancel: "Alt+F1";
+}
+@theme "~/.local/share/rofi/themes/harris.rasi"

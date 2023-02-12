@@ -1,0 +1,1 @@
+sudo pacman -S aria2 bc boost btop cmake ffmpeg gimp git gnumeric gparted handbrake highlight htop imagemagick kdenlive make mediainfo mousepad mpv nano neofetch npm rofi steam unzip which words yt-dlp zathura 
