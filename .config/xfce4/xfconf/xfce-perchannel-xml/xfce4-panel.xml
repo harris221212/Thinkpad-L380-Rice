@@ -49,6 +49,18 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="preparing wi-fi network connection “eduroam”…"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (47%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (52%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (46%)"/>
+        <value type="string" value="qbittorrent"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (50%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (83%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (54%)"/>
+        <value type="string" value="mullvad-gui"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (56%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (54%) vpn connection active"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (55%) vpn connection active"/>
         <value type="string" value="wi-fi network connection “eduroam” active: eduroam (49%)"/>
         <value type="string" value="no network connection"/>
         <value type="string" value="wi-fi network connection “eduroam” active: eduroam (48%)"/>
@@ -73,6 +85,12 @@
         <value type="string" value="wi-fi network connection “eduroam” active: eduroam (71%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="discord1"/>
+        <value type="string" value="AutoKey"/>
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="Mullvad VPN1"/>
+        <value type="string" value="steam"/>
         <value type="string" value="vlc"/>
       </property>
     </property>
@@ -91,7 +109,7 @@
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance1030;firefox.instance1053;firefox.instance1065;firefox.instance1069;firefox.instance1073;firefox.instance1076;firefox.instance1106;firefox.instance14217;firefox.instance17239;firefox.instance2014;firefox.instance2150;firefox.instance2533;firefox.instance26398;firefox.instance3224;firefox.instance33427;firefox.instance5497;firefox.instance5884;firefox.instance7979;firefox.instance830;firefox.instance9797;vlc;vlc.instance21882"/>
+      <property name="mpris-players" type="string" value="chromium.instance12343;chromium.instance13788;chromium.instance17965;chromium.instance196413;chromium.instance253508;chromium.instance265780;chromium.instance27739;chromium.instance5143;chromium.instance7650;firefox.instance10150;firefox.instance10185;firefox.instance1023;firefox.instance1026;firefox.instance1029;firefox.instance1030;firefox.instance1035;firefox.instance1036;firefox.instance10486;firefox.instance1053;firefox.instance1056;firefox.instance1060;firefox.instance1065;firefox.instance1067;firefox.instance10682;firefox.instance1069;firefox.instance1071;firefox.instance1072;firefox.instance1073;firefox.instance1076;firefox.instance1106;firefox.instance11215;firefox.instance11911;firefox.instance1271;firefox.instance13165;firefox.instance14217;firefox.instance1431;firefox.instance14985;firefox.instance1499;firefox.instance1529;firefox.instance16961;firefox.instance17014;firefox.instance17239;firefox.instance1883;firefox.instance1945;firefox.instance2014;firefox.instance2150;firefox.instance21948;firefox.instance22445;firefox.instance2294;firefox.instance2533;firefox.instance2572;firefox.instance25995;firefox.instance26096;firefox.instance26398;firefox.instance278685;firefox.instance28152;firefox.instance29451;firefox.instance3011;firefox.instance3224;firefox.instance33427;firefox.instance4237;firefox.instance5497;firefox.instance5580;firefox.instance5884;firefox.instance6376;firefox.instance6826;firefox.instance7793;firefox.instance7979;firefox.instance800;firefox.instance816;firefox.instance830;firefox.instance8462;firefox.instance872;firefox.instance9010;firefox.instance9797;firefox.instance9900;firefox.instance991;vlc;vlc.instance21882"/>
     </property>
     <property name="plugin-7" type="string" value="clock">
       <property name="timezone" type="string" value="EST"/>

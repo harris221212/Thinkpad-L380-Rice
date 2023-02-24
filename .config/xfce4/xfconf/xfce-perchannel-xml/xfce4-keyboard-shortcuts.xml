@@ -44,7 +44,6 @@
       <property name="&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;s" type="string" value="orca"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xflock4"/>
       <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;Escape" type="string" value="xfce4-taskmanager"/>
@@ -54,11 +53,23 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
-      <property name="&lt;Alt&gt;F1" type="string" value="rofi -show run rofi -show drun -kb-cancel Alt+F1"/>
       <property name="&lt;Super&gt;Return" type="string" value="alacritty"/>
       <property name="&lt;Super&gt;f" type="string" value="rofi  -show find -modi find:~/Programs/finder.sh"/>
       <property name="&lt;Super&gt;grave" type="string" value="xfce4-screenshooter"/>
-      <property name="&lt;Super&gt;c" type="string" value="alacritty -e bc"/>
+      <property name="&lt;Super&gt;o" type="string" value="opera https://studio.youtube.com/channel/UCkVw9cuMG2po4b-w48ZBODA/videos/upload?filter=%5B%5D&amp;sort=%7B&quot;columnType&quot;%3A&quot;date&quot;%2C&quot;sortOrder&quot;%3A&quot;DESCENDING&quot;%7D"/>
+      <property name="&lt;Super&gt;s" type="string" value="xfce4-settings-manager"/>
+      <property name="&lt;Super&gt;m" type="string" value="xfwm4-settings"/>
+      <property name="&lt;Super&gt;t" type="string" value="xfwm4-tweaks-settings"/>
+      <property name="&lt;Super&gt;b" type="string" value="alacritty -e btop"/>
+      <property name="&lt;Super&gt;h" type="string" value="alacritty -e htop"/>
+      <property name="&lt;Super&gt;l" type="string" value="surf destiny.gg/embed/chat"/>
+      <property name="&lt;Super&gt;n" type="string" value="mousepad"/>
+      <property name="&lt;Super&gt;v" type="string" value="python3 /home/ethan/Programs/My-Programs/rofiB.py"/>
+      <property name="&lt;Alt&gt;F1" type="string" value="rofi -show run -kb-cancel Alt+F1,Escape"/>
+      <property name="&lt;Super&gt;k" type="string" value="python3 /home/ethan/Programs/My-Programs/rofiKeyboard.py"/>
+      <property name="&lt;Super&gt;c" type="string" value="alacritty -e qalc"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;v" type="string" value="python3 /home/ethan/Programs/My-Programs/rofiA.py"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;e" type="string" value="/home/ethan/Programs/My-Programs/textInsert.sh"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
